@@ -34,7 +34,7 @@ func printNumber(number []int) {
 		if !isBeginning0 {
 			fmt.Printf("%d", number[i])
 			if i == length-1 {
-				fmt.Println()
+				fmt.Println() // 换行操作
 			}
 		}
 	}
