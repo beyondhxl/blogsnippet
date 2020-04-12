@@ -46,7 +46,7 @@ func printList(head *ComplexListNode) {
 }
 
 func main() {
-	//test
+	// 构造结点
 	l3 := &ComplexListNode{3, nil, nil}
 	l2 := &ComplexListNode{2, l3, nil}
 	l1 := &ComplexListNode{1, l2, nil}
