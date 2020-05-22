@@ -26,7 +26,6 @@ func CloneComplexList(head *ComplexListNode) *ComplexListNode {
 			}
 			m[cur].Next = m[cur.Next]
 		}
-
 		if cur.Sibling != nil {
 			if _, ok := m[cur.Sibling]; !ok {
 				m[cur.Sibling] = &ComplexListNode{cur.Sibling.Val, nil, nil}
@@ -58,5 +57,4 @@ func main() {
 	fmt.Println()
 	fmt.Println("复制后 --------- ")
 	printList(CloneComplexList(l1))
-	fmt.Println("")
 }
