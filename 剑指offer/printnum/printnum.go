@@ -13,7 +13,7 @@ func Print1ToMaxDigits(n int) {
 	}
 }
 
-func Print1ToMaxDigitsRecursively(number []int, length int, index int)  {
+func Print1ToMaxDigitsRecursively(number []int, length int, index int) {
 	if index == length-1 {
 		printNumber(number)
 		return
@@ -40,6 +40,6 @@ func printNumber(number []int) {
 	}
 }
 
-func main()  {
+func main() {
 	Print1ToMaxDigits(2)
 }

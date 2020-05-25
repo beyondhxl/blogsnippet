@@ -1,7 +1,7 @@
 package main
 
 import (
-	"blogsnippet/数据结构与算法/utils"
+	"blogsnippet/剑指offer/utils"
 	"fmt"
 )
 
