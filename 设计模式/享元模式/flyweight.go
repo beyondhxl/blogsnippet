@@ -2,11 +2,11 @@ package flyweight
 
 import "fmt"
 
-func (f *ObjFlyweightFactory) Get(objname string) *ObjFlyweight {
-	obj := f.maps[objname]
+func (f *ObjFlyweightFactory) Get(objName string) *ObjFlyweight {
+	obj := f.maps[objName]
 	if obj == nil {
-		obj = NewObjFlyweight(objname)
-		f.maps[objname] = obj
+		obj = NewObjFlyweight(objName)
+		f.maps[objName] = obj
 	}
 	return obj
 }
@@ -31,9 +31,9 @@ type ObjFlyweight struct {
 	data string
 }
 
-func NewObjFlyweight(objname string) *ObjFlyweight {
+func NewObjFlyweight(objName string) *ObjFlyweight {
 	// Load image file
-	data := fmt.Sprintf("data %s", objname)
+	data := fmt.Sprintf("data %s", objName)
 	return &ObjFlyweight{
 		data: data,
 	}
@@ -47,8 +47,8 @@ type ObjDisplay struct {
 	*ObjFlyweight
 }
 
-func NewObjDisplay(objname string) *ObjDisplay {
-	obj := GetObjFlyweightFactory().Get(objname)
+func NewObjDisplay(objName string) *ObjDisplay {
+	obj := GetObjFlyweightFactory().Get(objName)
 	return &ObjDisplay{
 		ObjFlyweight: obj,
 	}
