@@ -132,6 +132,7 @@ func (this *MyStack) Pop() int {
 		this.out.PushBack(h)
 	}
 
+	//栈顶
 	top := this.in.Front().Value
 	this.in.Remove(this.in.Front())
 
