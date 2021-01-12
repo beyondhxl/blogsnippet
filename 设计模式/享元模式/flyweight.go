@@ -34,6 +34,7 @@ type ObjFlyweight struct {
 func NewObjFlyweight(objName string) *ObjFlyweight {
 	// Load image file
 	data := fmt.Sprintf("data %s", objName)
+
 	return &ObjFlyweight{
 		data: data,
 	}
