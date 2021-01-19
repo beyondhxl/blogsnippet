@@ -107,8 +107,8 @@ import (
 //}
 
 type MyStack struct {
-	in  *list.List
-	out *list.List
+	in  *list.List //主链表
+	out *list.List //辅助链表
 }
 
 /** Initialize your data structure here. */
