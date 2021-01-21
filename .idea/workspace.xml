@@ -4,8 +4,15 @@
     <bookmark url="file://$PROJECT_DIR$/设计模式/享元模式/flyweight.go" line="33" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08847fef-f060-401a-b78b-f8246ccf8da6" name="Default Changelist" comment="" />
-    <list id="8ed8f4ea-f640-4759-9e36-12e709438e41" name="[数据结构与算法] 二叉树和为某一值的路径" comment="" />
+    <list default="true" id="08847fef-f060-401a-b78b-f8246ccf8da6" name="Default Changelist" comment="[设计模式] 适配器模式" />
+    <list id="8ed8f4ea-f640-4759-9e36-12e709438e41" name="[数据结构与算法] 二叉树和为某一值的路径" comment="[数据结构与算法] 二叉树和为某一值的路径" />
+    <list id="373c35d7-bfdd-453d-aa67-665d8a737db9" name="[数据结构与算法] 排行榜" comment="[数据结构与算法] 排行榜" />
+    <list id="8fdd8f68-97e4-4208-a4e8-ea7a83c78300" name="[设计模式] 外观模式" comment="[设计模式] 外观模式" />
+    <list id="38ebc47d-2019-4e77-ab4c-3917f60a54e0" name="[设计模式] 适配器模式" comment="">
+      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计模式/适配器模式/adapter.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计模式/适配器模式/adapter_test.go" afterDir="false" />
+    </list>
     <list id="429579c0-5c2a-43ac-b803-0ccee2353cf0" name="Revert: [配置] 增加gitignore忽视文件" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,8 +75,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/排行榜/sl.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="578" column="5" lean-forward="true" selection-start-line="578" selection-start-column="5" selection-end-line="578" selection-end-column="5" />
+            <state relative-caret-position="324">
+              <caret line="577" column="9" lean-forward="true" selection-start-line="577" selection-start-column="9" selection-end-line="577" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -497,10 +504,10 @@
     <MESSAGE value="[数据结构与算法] 求1+2+...+n" />
     <MESSAGE value="update" />
     <MESSAGE value="[数据结构与算法] 用队列实现栈" />
-    <MESSAGE value="[设计模式] 外观模式" />
-    <MESSAGE value="[数据结构与算法] 排行榜" />
     <MESSAGE value="[设计模式] 适配器模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="[设计模式] 适配器模式" />
+    <MESSAGE value="[数据结构与算法] 排行榜" />
+    <MESSAGE value="[设计模式] 外观模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="[设计模式] 外观模式" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -885,8 +892,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/排行榜/sl.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="578" column="5" lean-forward="true" selection-start-line="578" selection-start-column="5" selection-end-line="578" selection-end-column="5" />
+        <state relative-caret-position="324">
+          <caret line="577" column="9" lean-forward="true" selection-start-line="577" selection-start-column="9" selection-end-line="577" selection-end-column="9" />
         </state>
       </provider>
     </entry>
