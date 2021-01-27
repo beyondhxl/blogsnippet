@@ -4,12 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/设计模式/享元模式/flyweight.go" line="33" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08847fef-f060-401a-b78b-f8246ccf8da6" name="Default Changelist" comment="[设计模式] 适配器模式">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/排行榜/sl.go" beforeDir="false" afterPath="$PROJECT_DIR$/排行榜/sl.go" afterDir="false" />
-    </list>
+    <list default="true" id="08847fef-f060-401a-b78b-f8246ccf8da6" name="Default Changelist" comment="" />
     <list id="ddc47245-0c89-468a-92fa-68e1ac7f76b1" name="[设计模式] 适配器模式" comment="[设计模式] 适配器模式" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -492,7 +487,9 @@
     <MESSAGE value="[数据结构与算法] 排行榜" />
     <MESSAGE value="[设计模式] 外观模式" />
     <MESSAGE value="[设计模式] 适配器模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="[设计模式] 适配器模式" />
+    <MESSAGE value="[数据结构与算法] 排行榜修改" />
+    <MESSAGE value="[设计模式] 设计模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="[设计模式] 设计模式" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
