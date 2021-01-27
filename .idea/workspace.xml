@@ -4,7 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/设计模式/享元模式/flyweight.go" line="33" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08847fef-f060-401a-b78b-f8246ccf8da6" name="Default Changelist" comment="" />
+    <list default="true" id="08847fef-f060-401a-b78b-f8246ccf8da6" name="Default Changelist" comment="[设计模式] 设计模式" />
     <list id="ddc47245-0c89-468a-92fa-68e1ac7f76b1" name="[设计模式] 适配器模式" comment="[设计模式] 适配器模式" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,8 +82,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/goweb/day2-context/gee/context.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="57" column="46" selection-start-line="57" selection-start-column="46" selection-end-line="57" selection-end-column="46" />
+            <state relative-caret-position="359">
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
             </state>
           </provider>
         </entry>
@@ -208,8 +208,8 @@
         <option value="$PROJECT_DIR$/goweb/day2-context/gee/gee.go" />
         <option value="$PROJECT_DIR$/goweb/day1-HTTP/charpter3/gee/gee.go" />
         <option value="$PROJECT_DIR$/goweb/day2-context/gee/router.go" />
-        <option value="$PROJECT_DIR$/goweb/day2-context/gee/context.go" />
         <option value="$PROJECT_DIR$/goweb/day2-context/main.go" />
+        <option value="$PROJECT_DIR$/goweb/day2-context/gee/context.go" />
       </list>
     </option>
   </component>
@@ -233,6 +233,11 @@
             <path>
               <item name="blogsnippet" type="b2602c69:ProjectViewProjectNode" />
               <item name="blogsnippet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogsnippet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogsnippet" type="462c0819:PsiDirectoryNode" />
+              <item name="查缺补漏" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -879,8 +884,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/goweb/day2-context/gee/context.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="57" column="46" selection-start-line="57" selection-start-column="46" selection-end-line="57" selection-end-column="46" />
+        <state relative-caret-position="359">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>
