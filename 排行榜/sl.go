@@ -10,6 +10,18 @@ const (
 	SkipListP = 0.25
 )
 
+type IElement interface {
+	// UniqueId() return a uint64 is used for insertion/deletion/find. It needs to establish an order over all elements
+	UniqueId() uint64
+
+	// A string representation of the element. Can be used for pretty-printing the list. Otherwise just return an empty string.
+	String() string
+}
+
+type IKey interface {
+	Less() bool
+}
+
 //跳表层（同一层到下个结点的距离）
 type SkipListLevel struct {
 	forward *SkipListNode //后继
