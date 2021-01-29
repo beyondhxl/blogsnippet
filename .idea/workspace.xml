@@ -4,7 +4,17 @@
     <bookmark url="file://$PROJECT_DIR$/设计模式/享元模式/flyweight.go" line="33" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08847fef-f060-401a-b78b-f8246ccf8da6" name="Default Changelist" comment="[设计模式] 设计模式" />
+    <list default="true" id="08847fef-f060-401a-b78b-f8246ccf8da6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goweb/day1-HTTP/charpter1/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/goweb/day1-HTTP/charpter2/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/goweb/day1-HTTP/charpter3/gee/gee.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/goweb/day1-HTTP/charpter3/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/goweb/day2-context/gee/context.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/goweb/day2-context/gee/gee.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/goweb/day2-context/gee/router.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/goweb/day2-context/main.go" beforeDir="false" />
+    </list>
     <list id="ddc47245-0c89-468a-92fa-68e1ac7f76b1" name="[设计模式] 适配器模式" comment="[设计模式] 适配器模式" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,97 +42,103 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goweb/day1-HTTP/charpter1/main.go">
+        <entry file="file://$PROJECT_DIR$/goweb/gee/recovery.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goweb/day1-HTTP/charpter2/main.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goweb/day1-HTTP/charpter3/main.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goweb/day1-HTTP/charpter3/gee/gee.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+            <state relative-caret-position="137">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
               <folding>
-                <element signature="e#13#42#0" expanded="true" />
+                <element signature="e#13#37#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goweb/day2-context/gee/gee.go">
+        <entry file="file://$PROJECT_DIR$/goweb/gee/gee.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="891">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="353">
+              <caret line="87" column="21" lean-forward="true" selection-start-line="87" selection-start-column="21" selection-end-line="87" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/goweb/gee/router.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="43" column="23" lean-forward="true" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/goweb/gee/trie.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="461">
+              <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+              <folding>
+                <element signature="e#13#41#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/goweb/day2-context/gee/context.go">
+        <entry file="file://$PROJECT_DIR$/gocache/lru/lru.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://F:/Go/src/net/http/request.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34803">
-              <caret line="1311" selection-start-line="1311" selection-end-line="1311" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goweb/day2-context/gee/router.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="141">
+              <caret line="71" selection-start-line="71" selection-end-line="71" />
               <folding>
-                <element signature="e#13#42#0" expanded="true" />
+                <element signature="e#13#49#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/goweb/day2-context/main.go">
+        <entry file="file://F:/Go/src/runtime/preempt_amd64.s">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            <state relative-caret-position="162">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://F:/Go/src/net/http/server.go">
+        <entry file="file://F:/Go/src/runtime/panic.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="82566">
-              <caret line="3083" column="46" selection-start-line="3083" selection-start-column="46" selection-end-line="3083" selection-end-column="46" />
+            <state relative-caret-position="365">
+              <caret line="1193" column="24" lean-forward="true" selection-start-line="1193" selection-start-column="24" selection-end-line="1193" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gocache/lru/lru_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
+              <folding>
+                <element signature="e#13#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://F:/Go/src/testing/testing.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="994" selection-start-line="994" selection-end-line="994" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://F:/Go/src/container/list/list.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="189" column="8" lean-forward="true" selection-start-line="189" selection-start-column="8" selection-end-line="189" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -159,22 +175,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/数据结构与算法/数组中只出现一次的数字/main.go" />
-        <option value="$PROJECT_DIR$/数据结构与算法/n个骰子的点数/main.go" />
-        <option value="$PROJECT_DIR$/数据结构与算法/圆圈中最后剩下的数/main.go" />
-        <option value="$PROJECT_DIR$/数据结构与算法/求1+2+...+n/main.go" />
-        <option value="$PROJECT_DIR$/查缺补漏/main.go" />
-        <option value="$PROJECT_DIR$/设计模式/享元模式/decorator.go" />
-        <option value="$PROJECT_DIR$/操作系统/进程同步/main.go" />
-        <option value="$PROJECT_DIR$/操作系统/进程同步/哲学家就餐/main.go" />
-        <option value="$PROJECT_DIR$/设计模式/装饰器模式/decorator.go" />
-        <option value="$PROJECT_DIR$/面向对象思想/依赖倒置原则/main.go" />
-        <option value="$PROJECT_DIR$/查缺补漏/main.md" />
-        <option value="$PROJECT_DIR$/Golang构造函数/new和&amp;/main.go" />
-        <option value="$PROJECT_DIR$/数据结构与算法/复杂链表的复制/complexlist.go" />
-        <option value="$PROJECT_DIR$/剑指offer/minstack/minstack.go" />
-        <option value="$PROJECT_DIR$/操作系统/进程同步/生产者消费者/main.go" />
-        <option value="$PROJECT_DIR$/剑指offer/oddeven/oddeven.go" />
         <option value="$PROJECT_DIR$/排序/快速排序/quicksort.go" />
         <option value="$PROJECT_DIR$/设计模式/享元模式/flyweight.go" />
         <option value="$PROJECT_DIR$/../tempfile/leetcode/editor/cn/[7]整数反转.go" />
@@ -210,6 +210,22 @@
         <option value="$PROJECT_DIR$/goweb/day2-context/gee/router.go" />
         <option value="$PROJECT_DIR$/goweb/day2-context/main.go" />
         <option value="$PROJECT_DIR$/goweb/day2-context/gee/context.go" />
+        <option value="$PROJECT_DIR$/goweb/day3-router/main.go" />
+        <option value="$PROJECT_DIR$/goweb/day3-router/gee/context.go" />
+        <option value="$PROJECT_DIR$/goweb/day3-router/gee/router.go" />
+        <option value="$PROJECT_DIR$/goweb/day3-router/gee/trie.go" />
+        <option value="$PROJECT_DIR$/goweb/day3-router/gee/router_test.go" />
+        <option value="$PROJECT_DIR$/goweb/gee/trie.go" />
+        <option value="$PROJECT_DIR$/goweb/gee/gee_test.go" />
+        <option value="$PROJECT_DIR$/goweb/go.mod" />
+        <option value="$PROJECT_DIR$/goweb/gee/logger.go" />
+        <option value="$PROJECT_DIR$/goweb/gee/router.go" />
+        <option value="$PROJECT_DIR$/goweb/gee/context.go" />
+        <option value="$PROJECT_DIR$/goweb/gee/recovery.go" />
+        <option value="$PROJECT_DIR$/goweb/gee/gee.go" />
+        <option value="$PROJECT_DIR$/goweb/main.go" />
+        <option value="$PROJECT_DIR$/gocache/lru/lru.go" />
+        <option value="$PROJECT_DIR$/gocache/lru/lru_test.go" />
       </list>
     </option>
   </component>
@@ -227,6 +243,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -237,13 +254,38 @@
             <path>
               <item name="blogsnippet" type="b2602c69:ProjectViewProjectNode" />
               <item name="blogsnippet" type="462c0819:PsiDirectoryNode" />
-              <item name="查缺补漏" type="462c0819:PsiDirectoryNode" />
+              <item name="gocache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogsnippet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogsnippet" type="462c0819:PsiDirectoryNode" />
+              <item name="gocache" type="462c0819:PsiDirectoryNode" />
+              <item name="lru" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogsnippet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blogsnippet" type="462c0819:PsiDirectoryNode" />
+              <item name="剑指offer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blogsnippet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="blogsnippet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Go Modules &lt;goweb&gt;" type="20ee2d1f:SyntheticLibraryElementNode" />
+            </path>
+            <path>
+              <item name="blogsnippet" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Go Modules &lt;goweb&gt;" type="20ee2d1f:SyntheticLibraryElementNode" />
+              <item name="gee" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,10 +302,10 @@
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../go-design-pattern" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../7days-golang" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="go.sdk" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
@@ -271,6 +313,13 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\GoGo\blogsnippet\操作系统\进程同步\生产者消费者" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\GoGo\blogsnippet\goweb" />
+      <recent name="F:\GoGo\blogsnippet\goweb\gee" />
+      <recent name="F:\GoGo\blogsnippet\goweb\day4-group" />
+      <recent name="F:\GoGo\blogsnippet\goweb\day3-router" />
+      <recent name="F:\GoGo\blogsnippet\goweb\day3-router\gee" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -285,101 +334,107 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go (3)">
-    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="blogsnippet" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/goweb/day1/charpter2/main.go" />
-      <package value="blogsnippet" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="blogsnippet" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/goweb/day1/charpter3/main.go" />
-      <package value="blogsnippet" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="blogsnippet" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/goweb/day2-context/main.go" />
-      <package value="blogsnippet" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Test.TestCache_OnEvicted in blogsnippet/gocache/lru">
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="blogsnippet" />
-      <working_directory value="$PROJECT_DIR$" />
+      <working_directory value="$PROJECT_DIR$/goweb" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/goweb/day1/charpter1/main.go" />
+      <filePath value="$PROJECT_DIR$/goweb/main.go" />
       <package value="blogsnippet" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="TestErrorNotification_Notify in blogsnippet/设计模式/桥接模式" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCaChe_Get in blogsnippet/gocache/lru" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="blogsnippet" />
-      <working_directory value="$PROJECT_DIR$/设计模式/桥接模式" />
+      <working_directory value="$PROJECT_DIR$/gocache/lru" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="blogsnippet/设计模式/桥接模式" />
+      <package value="blogsnippet/gocache/lru" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestErrorNotification_Notify$" />
+      <pattern value="^TestCaChe_Get$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCaChe_RemoveOldest in blogsnippet/gocache/lru" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="blogsnippet" />
+      <working_directory value="$PROJECT_DIR$/gocache/lru" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="blogsnippet/gocache/lru" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestCaChe_RemoveOldest$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCache_OnEvicted in blogsnippet/gocache/lru" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="blogsnippet" />
+      <working_directory value="$PROJECT_DIR$/gocache/lru" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="blogsnippet/gocache/lru" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestCache_OnEvicted$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestOnEvicted in blogsnippet/gocache/lru" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="blogsnippet" />
+      <working_directory value="$PROJECT_DIR$/gocache/lru" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="blogsnippet/gocache/lru" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestOnEvicted$" />
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Go Build.go build main.go" />
-      <item itemvalue="Go Build.go build main.go (1)" />
-      <item itemvalue="Go Build.go build main.go (2)" />
-      <item itemvalue="Go Build.go build main.go (3)" />
-      <item itemvalue="Go Test.TestErrorNotification_Notify in blogsnippet/设计模式/桥接模式" />
+      <item itemvalue="Go Test.TestCaChe_Get in blogsnippet/gocache/lru" />
+      <item itemvalue="Go Test.TestCaChe_RemoveOldest in blogsnippet/gocache/lru" />
+      <item itemvalue="Go Test.TestOnEvicted in blogsnippet/gocache/lru" />
+      <item itemvalue="Go Test.TestCache_OnEvicted in blogsnippet/gocache/lru" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build main.go (3)" />
-        <item itemvalue="Go Build.go build main.go (2)" />
-        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Test.TestCache_OnEvicted in blogsnippet/gocache/lru" />
+        <item itemvalue="Go Test.TestOnEvicted in blogsnippet/gocache/lru" />
+        <item itemvalue="Go Test.TestCaChe_RemoveOldest in blogsnippet/gocache/lru" />
+        <item itemvalue="Go Test.TestCaChe_Get in blogsnippet/gocache/lru" />
         <item itemvalue="Go Build.go build main.go" />
-        <item itemvalue="Go Test.TestErrorNotification_Notify in blogsnippet/设计模式/桥接模式" />
       </list>
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="TestAdapter_in_blogsnippet_设计模式_适配器模式 - 2021.01.19 at 21h 00m 19s.xml">
-      <configuration name="TestAdapter in blogsnippet/设计模式/适配器模式" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestCaChe_Get_in_blogsnippet_gocache_lru - 2021.01.29 at 15h 06m 45s.xml">
+      <configuration name="TestCaChe_Get in blogsnippet/gocache/lru" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestGetInstance_in_blogsnippet_设计模式_单例模式 - 2021.01.23 at 13h 17m 14s.xml">
-      <configuration name="TestGetInstance in blogsnippet/设计模式/单例模式" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestCaChe_Get_in_blogsnippet_gocache_lru - 2021.01.29 at 15h 09m 37s.xml">
+      <configuration name="TestCaChe_Get in blogsnippet/gocache/lru" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestGetInstance_in_blogsnippet_设计模式_单例模式 - 2021.01.23 at 13h 18m 38s.xml">
-      <configuration name="TestGetInstance in blogsnippet/设计模式/单例模式" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestCaChe_Get_in_blogsnippet_gocache_lru - 2021.01.29 at 15h 10m 10s.xml">
+      <configuration name="TestCaChe_Get in blogsnippet/gocache/lru" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="BenchmarkGetInstanceParallel_in_blogsnippet_设计模式_单例模式 - 2021.01.23 at 13h 18m 46s.xml">
-      <configuration name="BenchmarkGetInstanceParallel in blogsnippet/设计模式/单例模式" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestCaChe_Get_in_blogsnippet_gocache_lru - 2021.01.29 at 15h 12m 41s.xml">
+      <configuration name="TestCaChe_Get in blogsnippet/gocache/lru" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestResourcePoolCfgBuilder_Build_in_blogsnippet_设计模式_建造者模式 - 2021.01.23 at 22h 01m 30s.xml">
-      <configuration name="TestResourcePoolCfgBuilder_Build in blogsnippet/设计模式/建造者模式" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestCaChe_Get_in_blogsnippet_gocache_lru - 2021.01.29 at 15h 31m 05s.xml">
+      <configuration name="TestCaChe_Get in blogsnippet/gocache/lru" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestUserProxy_Login_in_blogsnippet_设计模式_代理模式 - 2021.01.24 at 17h 03m 56s.xml">
-      <configuration name="TestUserProxy_Login in blogsnippet/设计模式/代理模式" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestCaChe_RemoveOldest_in_blogsnippet_gocache_lru - 2021.01.29 at 15h 31m 57s.xml">
+      <configuration name="TestCaChe_RemoveOldest in blogsnippet/gocache/lru" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestGenerate_in_blogsnippet_设计模式_代理模式 - 2021.01.24 at 17h 26m 21s.xml">
-      <configuration name="TestGenerate in blogsnippet/设计模式/代理模式" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestCaChe_RemoveOldest_in_blogsnippet_gocache_lru - 2021.01.29 at 15h 33m 00s.xml">
+      <configuration name="TestCaChe_RemoveOldest in blogsnippet/gocache/lru" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestErrorNotification_Notify_in_blogsnippet_设计模式_桥接模式 - 2021.01.26 at 15h 24m 14s.xml">
-      <configuration name="TestErrorNotification_Notify in blogsnippet/设计模式/桥接模式" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestCaChe_RemoveOldest_in_blogsnippet_gocache_lru - 2021.01.29 at 15h 42m 56s.xml">
+      <configuration name="TestCaChe_RemoveOldest in blogsnippet/gocache/lru" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestErrorNotification_Notify_in_blogsnippet_设计模式_桥接模式 - 2021.01.26 at 15h 27m 02s.xml">
-      <configuration name="TestErrorNotification_Notify in blogsnippet/设计模式/桥接模式" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestOnEvicted_in_blogsnippet_gocache_lru - 2021.01.29 at 15h 51m 02s.xml">
+      <configuration name="TestOnEvicted in blogsnippet/gocache/lru" configurationId="GoTestRunConfiguration" />
     </history-entry>
-    <history-entry file="TestErrorNotification_Notify_in_blogsnippet_设计模式_桥接模式 - 2021.01.26 at 15h 27m 29s.xml">
-      <configuration name="TestErrorNotification_Notify in blogsnippet/设计模式/桥接模式" configurationId="GoTestRunConfiguration" />
+    <history-entry file="TestCache_OnEvicted_in_blogsnippet_gocache_lru - 2021.01.29 at 15h 55m 32s.xml">
+      <configuration name="TestCache_OnEvicted in blogsnippet/gocache/lru" configurationId="GoTestRunConfiguration" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -394,20 +449,20 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49676377" visible="true" weight="0.1488" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49676377" visible="true" weight="0.152" />
       <window_info id="Structure" order="1" sideWeight="0.50323623" side_tool="true" weight="0.1696" />
       <window_info id="Favorites" order="2" sideWeight="0.50323623" side_tool="true" weight="0.1696" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.3286334" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4992" weight="0.3991323" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.4992" visible="true" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49706668" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4976" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4976" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5024" side_tool="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49866667" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -501,293 +556,35 @@
     <proxy>https://goproxy.io</proxy>
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/goweb/day3-router/gee/router_test.go</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/gocache/lru/lru_test.go</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/gocache/lru/lru_test.go</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="GoApplicationRunConfiguration">
         <watch expression="*(*&quot;main.TreeNode&quot;)(824634204000)" />
+        <watch expression="*(*&quot;net/http.Request&quot;)(824634408960)" />
       </configuration>
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/剑指offer/printmatrix/printmatrix.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1215">
-          <caret line="45" column="14" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/Go/src/runtime/preempt_amd64.s">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/Go/src/math/rand/rand.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8586">
-          <caret line="318" column="5" selection-start-line="318" selection-start-column="5" selection-end-line="318" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/设计模式/享元模式/flyweight_test.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/操作系统/进程同步/生产者消费者/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1998">
-          <caret line="78" column="17" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
-          <folding>
-            <element signature="e#16#52#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/设计模式/简单工厂模式/simplefactory.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/设计模式/简单工厂模式/simplefactory_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/设计模式/外观模式/facade.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1404">
-          <caret line="52" column="18" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/设计模式/适配器模式/adapter.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="837">
-          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/go.mod">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指offer/minstack/minstack.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
-          <folding>
-            <element signature="e#14#60#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/golang/new和&amp;/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1377">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-          <folding>
-            <element signature="e#377#394#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/设计模式/适配器模式/adapter_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/设计模式/外观模式/facade_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指offer/printnum/printnum.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/排行榜/sl_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1512">
-          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/排行榜/sl.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="e#12#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/查缺补漏/main.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="2754">
-            <caret line="102" selection-start-line="102" selection-end-line="102" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/设计模式/单例模式/singleton.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/设计模式/单例模式/singleton_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-          <folding>
-            <element signature="e#19#80#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/设计模式/建造者模式/builder_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/Go/src/testing/benchmark.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19305">
-          <caret line="730" column="12" selection-start-line="730" selection-start-column="12" selection-end-line="730" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/Go/src/sync/once.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/golang/json/struct.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
-          <folding>
-            <element signature="e#14#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/查缺补漏/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/面向对象思想/依赖倒置原则/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/操作系统/进程同步/哲学家就餐/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#14#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/设计模式/建造者模式/builder.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2673">
-          <caret line="101" column="30" selection-start-line="101" selection-start-column="30" selection-end-line="101" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/设计模式/代理模式/proxy.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1620">
-          <caret line="69" selection-start-line="69" selection-end-line="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/设计模式/代理模式/static_proxy.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding>
-            <element signature="e#15#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/设计模式/代理模式/static_proxy_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#15#75#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/Go/src/testing/testing.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26433">
-          <caret line="995" selection-start-line="995" selection-end-line="995" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/Go/src/go/ast/commentmap.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6480">
-          <caret line="245" column="5" selection-start-line="245" selection-start-column="5" selection-end-line="245" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/Go/src/go/parser/interface.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1161">
-          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/Go/src/strings/strings.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22842">
-          <caret line="850" column="5" selection-start-line="850" selection-start-column="5" selection-end-line="850" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/Go/src/runtime/asm_amd64.s">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="1373" selection-start-line="1373" selection-end-line="1373" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/设计模式/代理模式/proxy_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://F:/War/server/pkg/mod/github.com/stretchr/testify@v1.7.0/assert/assertions.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
@@ -813,44 +610,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/goweb/day1-HTTP/charpter1/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goweb/day1-HTTP/charpter2/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goweb/day1-HTTP/charpter3/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goweb/day1-HTTP/charpter3/gee/gee.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-          <folding>
-            <element signature="e#13#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goweb/day2-context/gee/gee.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/goweb/day1-HTTP/charpter1/main.go" />
+    <entry file="file://$PROJECT_DIR$/goweb/day1-HTTP/charpter2/main.go" />
+    <entry file="file://$PROJECT_DIR$/goweb/day1-HTTP/charpter3/main.go" />
+    <entry file="file://$PROJECT_DIR$/goweb/day1-HTTP/charpter3/gee/gee.go" />
+    <entry file="file://$PROJECT_DIR$/goweb/day2-context/gee/gee.go" />
     <entry file="file://F:/Go/src/net/http/request.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34803">
@@ -858,23 +622,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/goweb/day2-context/gee/router.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#13#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goweb/day2-context/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/goweb/day2-context/gee/router.go" />
+    <entry file="file://$PROJECT_DIR$/goweb/day3-router/gee/go.mod" />
+    <entry file="file://$PROJECT_DIR$/goweb/day3-router/go.mod" />
+    <entry file="file://$PROJECT_DIR$/goweb/day2-context/gee/context.go" />
+    <entry file="file://$PROJECT_DIR$/goweb/day3-router/gee/trie.go" />
+    <entry file="file://$PROJECT_DIR$/goweb/day3-router/main.go" />
+    <entry file="file://$PROJECT_DIR$/goweb/day3-router/gee/router.go" />
+    <entry file="file://$PROJECT_DIR$/goweb/day3-router/gee/context.go" />
+    <entry file="file://$PROJECT_DIR$/goweb/day2-context/main.go" />
     <entry file="file://F:/Go/src/net/http/server.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="82566">
@@ -882,10 +638,193 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/goweb/day2-context/gee/context.go">
+    <entry file="file://$PROJECT_DIR$/goweb/day4-group/main.go" />
+    <entry file="file://$PROJECT_DIR$/goweb/day3-router/gee/router_test.go" />
+    <entry file="file://$PROJECT_DIR$/goweb/gee/router_test.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goweb/day3-router/gee/gee.go" />
+    <entry file="file://$PROJECT_DIR$/goweb/gee/go.mod">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goweb/gee/gee_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        <state relative-caret-position="108">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Go/src/runtime/rt0_windows_amd64.s">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="64" lean-forward="true" selection-start-line="13" selection-start-column="64" selection-end-line="13" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Go/src/log/log.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="318" column="5" selection-start-line="318" selection-start-column="5" selection-end-line="318" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goweb/gee/logger.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="e#13#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Go/src/net/http/fs.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Go/src/html/template/template.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9801">
+          <caret line="371" selection-start-line="371" selection-end-line="371" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Go/src/time/zoneinfo.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="59" column="4" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goweb/static/css/geektutu.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goweb/templates/arr.tmpl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goweb/templates/css.tmpl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goweb/static/file1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goweb/templates/custom_func.tmpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Go/src/net/http/status.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="65" column="5" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goweb/gee/context.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="89" column="18" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goweb/go.mod">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goweb/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-835">
+          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goweb/gee/recovery.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <element signature="e#13#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goweb/gee/gee.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="87" column="21" lean-forward="true" selection-start-line="87" selection-start-column="21" selection-end-line="87" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goweb/gee/router.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="43" column="23" lean-forward="true" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/goweb/gee/trie.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+          <folding>
+            <element signature="e#13#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Go/src/container/list/list.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="189" column="8" lean-forward="true" selection-start-line="189" selection-start-column="8" selection-end-line="189" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Go/src/testing/testing.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="994" selection-start-line="994" selection-end-line="994" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Go/src/runtime/preempt_amd64.s">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Go/src/runtime/panic.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="1193" column="24" lean-forward="true" selection-start-line="1193" selection-start-column="24" selection-end-line="1193" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gocache/lru/lru_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="e#13#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gocache/lru/lru.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+          <folding>
+            <element signature="e#13#49#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
