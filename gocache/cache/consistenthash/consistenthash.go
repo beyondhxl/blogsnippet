@@ -31,6 +31,7 @@ func New(replicas int, fn Hash) *Map {
 
 func (m *Map) Add(key ...string) {
 	for _, key := range key {
+		// 对每一个真实节点 key，对应创建 m.replicas 个虚拟节点
 		for i := 0; i < m.replicas; i++ {
 			hash := int(m.hash([]byte(strconv.Itoa(i) + key)))
 			m.keys = append(m.keys, hash)
