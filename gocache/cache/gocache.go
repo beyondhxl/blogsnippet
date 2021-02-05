@@ -73,18 +73,6 @@ func (g *Group) Get(key string) (ByteView, error) {
 	return g.load(key)
 }
 
-func (g *Group) load(key string) (value ByteView, err error) {
-	if g.peers != nil {
-		if peer, ok := g.peers.PickPeer(key); ok {
-			if value, err = g.getFromPeer(peer, key); err != nil {
-				return value, nil
-			}
-		}
-	}
-
-	return g.getLocally(key)
-}
-
 func (g *Group) getFromPeer(peer PeerGetter, key string) (ByteView, error) {
 	bytes, err := peer.Get(g.name, key)
 	if err != nil {
@@ -129,6 +117,10 @@ func (g *Group) load(key string) (value ByteView, err error) {
 
 		return g.getLocally(key)
 	})
+
+	if err == nil {
+		return viewi.(ByteView), nil
+	}
 
 	return
 }
