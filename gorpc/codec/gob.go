@@ -41,17 +41,14 @@ func (c *GobCodec) Write(h *Header, body interface{}) (err error) {
 			_ = c.Close()
 		}
 	}()
-
 	if err = c.enc.Encode(h); err != nil {
-		log.Panicln("rpc: gob error encoding header:", err)
+		log.Println("rpc: gob error encoding header:", err)
 		return
 	}
-
 	if err = c.enc.Encode(body); err != nil {
-		log.Panicln("rpc: gob error encoding body:", err)
+		log.Println("rpc: gob error encoding body:", err)
 		return
 	}
-
 	return
 }
 
